@@ -1,7 +1,8 @@
 # 👋 Hi, I'm @UnityguildPH
 
-- 🌱 I’m currently learning Unity and creating games on Roblox.
-- 🛠️ I’m working with game scripts and exploring 3D modeling in Blender.
-- 🤝 I’m open to collaboration, depending on the project scope and fit.
+- 🌱 I’m currently learning game scripting and exploring Blender for 3D modeling, focusing on developing engaging Roblox games and learning Unity.
+- 🤝 I’m open to collaborating on projects that help me grow as a game developer, especially in scripting or design.
+- ✨ I’m interested in experimenting with unique game mechanics and environments.
 - 📫 How to reach me: [unityguild.business@gmail.com]
-- 📚 Fun fact: I’m just starting out, and every project is a new adventure in game development!
+- 🏷️ Pronouns: [he/him]
+- 🚀 Fun fact: I’m just starting my journey in game development, and I’m eager to learn and share my progress!
